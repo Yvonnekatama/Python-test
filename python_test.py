@@ -31,6 +31,7 @@ def divisible_by_seven():
     for n in num:
         if n%7==0:
             a.append(n)
+        print(a)
     
 divisible_by_seven()
 #q7
